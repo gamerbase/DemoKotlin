@@ -1,0 +1,3 @@
+class StarWars {
+    var aliens = ""
+}
