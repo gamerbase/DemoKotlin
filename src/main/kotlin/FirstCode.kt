@@ -38,11 +38,4 @@ fun main(arguments : Array<String>){
     else{
         print("Strings are Not Same")
     }
-
-
-
-
-
-
-
 }
